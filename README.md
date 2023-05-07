@@ -25,4 +25,8 @@ More info about the dataset can be found here:
 2.	Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-![Architecture](https://github.com/hmzaminhas/dwh_pipeline/blob/main/data_model.jpeg?raw=true)
+![Data Model](https://github.com/hmzaminhas/dwh_pipeline/blob/main/data_model.jpeg?raw=true)
+
+## Dashboard
+
+![dashboard](https://github.com/hmzaminhas/dwh_pipeline/blob/main/looker_dashboard.png?raw=true)
